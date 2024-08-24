@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "830103381701",
+    "project_id": "test-143e2",
+    "storage_bucket": "test-143e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830103381701:android:597e57d10ceb884ff0b2ac",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830103381701-cd7tgp9nbn8d47n6b4vtv0f0qf0tu1ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPvHGEnAwo_gZrMzRmBk7UBRdHn2Xzszc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830103381701-cd7tgp9nbn8d47n6b4vtv0f0qf0tu1ba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "830103381701-pu951dpisvmno9he65mp625r6ahvphml.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ffire2.ffire2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830103381701:android:6e82a0659ed9338bf0b2ac",
+        "android_client_info": {
+          "package_name": "com.ffire2.ffire2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830103381701-3qumdvgvd16hlqtoh7aulm2mt63q7aq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ffire2.ffire2",
+            "certificate_hash": "aecb231f8aa5485f8cb875efab7ad0fd072a5f2c"
+          }
+        },
+        {
+          "client_id": "830103381701-cd7tgp9nbn8d47n6b4vtv0f0qf0tu1ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPvHGEnAwo_gZrMzRmBk7UBRdHn2Xzszc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830103381701-cd7tgp9nbn8d47n6b4vtv0f0qf0tu1ba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "830103381701-pu951dpisvmno9he65mp625r6ahvphml.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ffire2.ffire2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
